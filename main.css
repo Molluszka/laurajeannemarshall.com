@@ -78,7 +78,7 @@ img.floater{
   float: right;
   text-align: left;
   width: 22%;
-  font-family: 'Abel', sans-serif;
+  font-family: 'Fira Sans', sans-serif;
   position: relative;
   margin-right: 0%;
   padding-right: 50px;
@@ -103,7 +103,7 @@ img.resizeme {
   }
 .c {
   text-align: center;
-
+  font-size: 115%;
 }
 img.linkedin {
     display: inline-block;
